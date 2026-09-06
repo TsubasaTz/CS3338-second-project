@@ -1,0 +1,45 @@
+commit c3de63376197bfaf10158f5a772b6d7de8664bd7
+Merge: d56ee1a 22e6d18
+Author: TsubasaTz <maggie.hoang.nguyen@gmail.com>
+Date:   Sun Sep 6 15:32:39 2026 -0700
+
+    Resolved merge conflict
+
+commit 22e6d181c9620343f2ba44611b1e2910dad9f5a1
+Author: TsubasaTz <maggie.hoang.nguyen@gmail.com>
+Date:   Sun Sep 6 15:30:10 2026 -0700
+
+    Added favorite game to repo.
+
+commit d56ee1aafd5260e5d4f256023226b769c6b52ec3
+Author: TsubasaTz <maggie.hoang.nguyen@gmail.com>
+Date:   Sun Sep 6 15:28:27 2026 -0700
+
+    Added favorite food to repo.
+
+commit f987e7b155e5b60293bf7f599ba1638a3e59f741
+Author: TsubasaTz <maggie.hoang.nguyen@gmail.com>
+Date:   Sun Sep 6 15:26:51 2026 -0700
+
+    Added README to repo.
+
+commit 6ed6036e97b0f6c5457bba9d1015af61a2b9c555
+Merge: 1d2bfc0 961ebfe
+Author: Maggie <Maggie.Hoang.Nguyen@gmail.com>
+Date:   Sun Sep 6 15:18:36 2026 -0700
+
+    Merge pull request #1 from TsubasaTz/info-fill
+    
+    Updated index.html
+
+commit 961ebfe1c99d26b8173830da0c73826c3bb035e0
+Author: TsubasaTz <maggie.hoang.nguyen@gmail.com>
+Date:   Sun Sep 6 15:11:55 2026 -0700
+
+    Updated index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
